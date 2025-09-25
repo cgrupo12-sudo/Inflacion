@@ -1,0 +1,2 @@
+# Inflacion
+Inflación de latinoamerica
